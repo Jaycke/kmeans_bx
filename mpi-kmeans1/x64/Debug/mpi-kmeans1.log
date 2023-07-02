@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(45,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(55,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(100,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(100,26): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(152,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(192,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(230,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\mpi-kmeans1\main.cpp(281,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mpi-kmeans1.vcxproj -> C:\Users\Lenovo\source\repos\mpi-kmeans1\x64\Debug\mpi-kmeans1.exe
