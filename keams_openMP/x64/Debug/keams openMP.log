@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(50,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(60,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(74,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(119,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(163,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(206,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(253,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(298,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(339,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(380,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\keams openMP\main.cpp(424,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  keams openMP.vcxproj -> C:\Users\Lenovo\source\repos\keams openMP\x64\Debug\keams openMP.exe
